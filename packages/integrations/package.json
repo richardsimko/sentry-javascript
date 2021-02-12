@@ -18,8 +18,7 @@
   "dependencies": {
     "@sentry/types": "6.1.0",
     "@sentry/utils": "6.1.0",
-    "localforage": "^1.8.1",
-    "tslib": "^1.9.3"
+    "localforage": "^1.8.1"
   },
   "devDependencies": {
     "@sentry-internal/eslint-config-sdk": "6.1.0",
